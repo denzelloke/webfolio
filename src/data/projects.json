@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Hack4Good Emart",
+    "imageSrc": "projects/H4G.png",
+    "description": "An Emart with User and Admin features including cart, auction and inventory management",
+    "skills": ["React", "Typescript", "Node", "Supabase"],
+    "demo": "https://youtu.be/oUWSrqQz67c",
+    "source": "https://github.com/denzelloke/Hack4Good.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "CramBrulee",
+    "imageSrc": "projects/CramBrulee.png",
+    "description": "A calendar app with AI functions to suggest events based on past user input ",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://youtu.be/3oDIReyxICY",
+    "source": "https://github.com/denzelloke/CramBrulee.git"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Project ALEX",
+    "imageSrc": "projects/ALEX.png",
+    "description": "A remote controlled robot with Lidar mapping, colour identification and proximity detection",
+    "skills": ["TCPIP", "C++", "RPi", "mBot", "Arduino"],
+    "demo": "https://www.youtube.com/watch?v=jzNC_OXyM7Y",
+    "source": "https://github.com/denzelloke/ALEX.git"
   }
 ]

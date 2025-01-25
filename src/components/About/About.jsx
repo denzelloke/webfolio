@@ -20,8 +20,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Computer Engineer</h3>
               <p>
-                I have great passion for computer architecture, embedded 
-                systems and robotics
+                My passion lies in computer architecture, embedded 
+                systems and robotics.
               </p>
             </div>
           </li>
@@ -42,8 +42,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Web Developer</h3>
               <p>
-                In my spare time, I enjoy learning and building projects
-                 (just like this one!)
+                In my spare time, I enjoy learning and building projects to expand my skillset.
               </p>
             </div>
           </li>
